@@ -6,5 +6,27 @@
 
 /* Main Content Container */
 
+/* about me */
+.content {
+
+}
+
+.frogs {
+ width: 100%;
+ height: 400px;
+}
+
+.frogImageBox {
+  display: flex;
+  align-items: baseline;
+  align-content: space-around;
+  flex-flow: wrap;
+  flex-shrink: auto auto;
+
+}
+.frogImage {
+  max-width: 30%;
+  max-height: 400px; */
+}
 
 /* Footer */
